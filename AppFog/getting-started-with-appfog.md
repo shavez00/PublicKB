@@ -22,7 +22,7 @@ AppFog supports the following common application runtimes: Java, Node.js, PHP, P
 
 ### Enable AppFog in Control Portal
 
-Go to https://control.ctl.io, login, in the left hand side selection menu you will see an option for "Services".  Select "Services" and the first option at the top Services Menu will be “AppFog":
+Go to https://control.ctl.io, login, in the left hand side selection menu you will see an option for "Services".  Select "Services" and the first option at the top of the Services Menu will be “AppFog":
 
 ![AppFog in Dropdown Navigation](../images/20161103-appfog-in-dropdown-nav.png)
 
