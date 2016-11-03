@@ -24,7 +24,7 @@ AppFog supports the following common application runtimes: Java, Node.js, PHP, P
 
 Go to https://control.ctl.io, login, and you will see “AppFog" listed in the drop down navigation bar:
 
-![AppFog in Dropdown Navigation](../images/appfog-in-dropdown-nav.png)
+![AppFog in Dropdown Navigation](../images/20161103-appfog-in-dropdown-nav.png)
 
 You may also navigate to AppFog via the icon on the left-side vertical navigation bar:
 
